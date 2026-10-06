@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /dashboard
+Disallow: /map
+Disallow: /my-territories
+Disallow: /wallet
+Disallow: /identity
+Disallow: /profile
+Disallow: /notifications
+Disallow: /settings

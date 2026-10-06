@@ -1,0 +1,1 @@
+ALTER TABLE `wallet_topup_requests` MODIFY COLUMN `receiptUrl` varchar(500) NOT NULL;
