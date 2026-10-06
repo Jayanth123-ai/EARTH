@@ -24,7 +24,7 @@
 ## Remaining owner-side choices
 
 - [x] **GitHub repository/access:** the owner created the public `Jayanth123-ai/EARTH` repository. The connected account has been verified with admin/push permission.
-- [ ] **GitHub publication:** publish the current tracked EARTH616 source snapshot and project README; verify the files on the remote and keep secrets, environment files, dependencies, build output, and internal Git history out of the public repository.
+- [x] **GitHub publication:** pushed the clean 159-file EARTH616 source snapshot and project README to the public repository. Remote commit `657d439` and tree contents were verified; secrets/environment files, dependencies, build output, and internal Git history were excluded.
 - [ ] **Territory catalog:** the database has no territory records. Provide owner-approved territory IDs, coordinates, rarity, availability and prices, or explicitly authorize clearly labeled non-sale demo data. The live explorer/rankings correctly show empty states until then.
 
 ## Not performed in this preview (not blockers to review)
