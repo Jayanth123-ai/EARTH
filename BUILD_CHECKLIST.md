@@ -16,11 +16,11 @@
 - [x] Signed-in wallet and admin-review pages render against Supabase; wallet ledger reconciliation found zero mismatches.
 - [x] Created Vercel project shell `earth616-platform`; no production deployment was requested or published.
 
-## Owner-side decisions still required
+## Owner-side decisions recorded
 
 - [x] **GitHub repository/access:** the owner created the public `Jayanth123-ai/EARTH` repository; the connected account has verified admin/push access.
 - [x] **GitHub publication:** pushed the 159-file current source snapshot and project README; commit `657d439` and remote file hashes verified. Secrets, local environment files, dependencies, build output, and internal Git history were excluded.
-- [ ] **Territory catalog:** Provide approved IDs/coordinates/rarity/status/prices, or explicitly authorize clearly labeled, non-sale demo territories. Until then, catalog and rankings remain empty.
+- [x] **Territory catalog:** the owner chose to keep the catalog empty for now; the app retains honest empty states and no territories are fabricated.
 
 ## Deferred beyond the current preview
 

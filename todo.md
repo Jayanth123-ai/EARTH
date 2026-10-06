@@ -25,7 +25,7 @@
 
 - [x] **GitHub repository/access:** the owner created the public `Jayanth123-ai/EARTH` repository. The connected account has been verified with admin/push permission.
 - [x] **GitHub publication:** pushed the clean 159-file EARTH616 source snapshot and project README to the public repository. Remote commit `657d439` and tree contents were verified; secrets/environment files, dependencies, build output, and internal Git history were excluded.
-- [ ] **Territory catalog:** the database has no territory records. Provide owner-approved territory IDs, coordinates, rarity, availability and prices, or explicitly authorize clearly labeled non-sale demo data. The live explorer/rankings correctly show empty states until then.
+- [x] **Territory catalog:** the owner chose to keep the catalog empty for now. The explorer and rankings retain their truthful empty states; no territory, price, ownership, or availability data was invented.
 
 ## Not performed in this preview (not blockers to review)
 

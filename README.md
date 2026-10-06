@@ -6,7 +6,7 @@ EARTH616 is a full-stack platform for discovering and managing **digital-only te
 
 ## Project status
 
-This repository contains the application source for a review/preview build. The live territory catalog is intentionally empty until approved inventory data is supplied. No territory, price, ownership, or availability has been invented. Production deployment and real-money payment testing have not been performed.
+This repository contains the application source for a review/preview build. The owner has chosen to keep the live territory catalog empty for now. The explorer and rankings show their truthful empty states; no territory, price, ownership, or availability data has been invented. Add records only after the owner approves them. Production deployment and real-money payment testing have not been performed.
 
 ## Features
 
